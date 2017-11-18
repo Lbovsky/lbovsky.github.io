@@ -1,0 +1,168 @@
+img.center {
+	position: relative;
+	top: 30px;
+	display: block;
+	margin-left: auto;
+  	margin-right: auto;
+  	z-index:0;
+}
+
+img.langPanel {
+	position: absolute;
+	right: 0px;
+	top: 0px;
+}
+
+#copy {
+	color: grey; 
+	position: relative; 
+	bottom: -28px;
+	text-align: center;
+	margin-left: auto;
+  	margin-right: auto;
+}
+
+#mailIcon {
+	position: relative;
+	top: -485px;
+	left: 462px;
+	display: block;
+}
+
+#twitterIcon {
+	position: relative;
+	top: -390px;
+	left: 285px;
+	display: block;
+}
+
+#instaIcon1 {
+	position: relative;
+	top: -425px;
+	left: 420px;
+	display: block;
+	margin-left: auto;
+  	margin-right: auto;
+}
+
+#instaIcon2 {
+	position: relative;
+	top: -600px;
+	left: 470px;
+	display: block;
+	margin-left: auto;
+  	margin-right: auto;
+}
+
+div.ex1 {
+	width:750px;
+	height: 400px;
+	margin: 0 auto;
+	border: 3px solid #000000;
+	padding: 0px;
+}
+
+div.ex2 {
+	width: 600px;
+	margin:0 auto;
+	border: 3px solid #FFFF00;
+	position: relative; top: 30px;
+	
+}
+
+/*@import url(http://allfont.net/allfont.css?fonts=olgactt);*/
+
+/*p.mainTextj {
+	font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+	font-weight: 250;
+    font-style: normal;
+	font-size: 25px;
+	text-align: justify;
+	vertical-align: center;
+}*/
+
+@font-face {
+    font-family: 'Kurochka';
+    src: url('../css/fonts/Kurochkalapkoi.ttf'); 
+}
+
+p.mainText {
+	font-family: 'Kurochka';
+	font-size: 30px;
+	text-align: justify;
+	vertical-align: center;
+}
+
+#langBtnEng {
+	font-family: "kurochka";
+	font-size: 30px;
+	position: absolute; top: -2px; right: 110px;
+	z-index: 22;
+}
+
+#langBtnEngBlock {
+	font-family: "kurochka";
+    color: white;
+	font-size: 30px;
+	position: absolute; top: -32px; right: 110px;
+	z-index: 22;
+}
+
+#langBtnPol {
+	font-family: "kurochka";
+	font-size: 30px;
+	position: absolute; top: -2px; right: 60px;
+	z-index: 22;
+}
+
+#langBtnPolBlock {
+	font-family: "kurochka";
+    color: white;
+	font-size: 30px;
+	position: absolute; top: -32px; right: 60px;
+	z-index: 22;
+}
+
+#langBtnRus {
+	font-family: "kurochka";
+	font-size: 30px;
+	position: absolute; top: -2px; right: 10px;
+	z-index: 22;
+}
+
+#langBtnRusBlock {
+	font-family: "kurochka";
+    color: white;
+	font-size: 30px;
+	position: absolute; top: -32px; right: 10px;
+	z-index: 22;
+}
+
+
+
+
+
+
+a.button:link {
+    color: #b3b3b3; 
+    background-color: transparent; 
+    text-decoration: none;
+}
+
+a.button:visited {
+    color: #b3b3b3;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a.button:hover {
+    color: white;
+}
+
+a.button:active {
+    color: #b3b3b3;
+    background-color: transparent;
+    text-decoration: none;
+    
+}
+
