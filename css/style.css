@@ -1,8 +1,7 @@
 img.center {
     width: 354px;
     height: auto;
-    
-    max-width : 70%;
+    max-width : 80%;
 	position: relative;
 	top: 60px;
 	display: block;
